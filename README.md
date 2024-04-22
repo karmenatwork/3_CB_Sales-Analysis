@@ -38,3 +38,26 @@ c. Identify the group within the highest and lowest sales based on the data prov
 
 d. Generate weekly, monthly, and quarterly reports to document and present the results of the analysis conducted.
 
+**3. Data visualization**
+
+a. Use suitable data visualization libraries to construct a dashboard for the Head of Sales and Marketing (S&M). The dashboard should encompass key parameters:
+
+- State-wise Sales Analysis for Different Demographic Groups (Kids, Women, Men, and Seniors).
+
+- Group-wise Sales Analysis (Kids, Women, Men, and Seniors) Across Various States.
+
+- Time-of-the-Day Analysis: Identify peak and off-peak sales periods to facilitate strategic planning for S&M teams. This information aids in designing programs like hyper-personalization and Next Best Offers to enhance sales.
+
+b. Ensure the visualization is clear and accessible for effective decision-making by the Head of S&M.
+
+The dashboard must contain daily, weekly, monthly, and quarterly charts.
+
+ (Any visualization library can be used for this purpose. However, since statistical analysis is being done, Seaborn is preferred.)
+
+ c. Include your recommendation and indicate why you are choosing the recommended visualization package.
+
+**4. Report generation**
+- Use JupyterLab Notebook for generating reports, which includes tasks such as data wrangling, analysis, and visualization. Please note that JupyterLab enables you to integrate code seamlessly with graphs and plots.
+- Use Markdown in suitable places while presenting your report.
+
+- Use suitable graphs, plots, and analysis reports in the report, along with recommendations. Note that various aspects of analysis require different graphs and plots.
