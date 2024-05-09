@@ -3,3 +3,6 @@ __pycache__/
 *.zip
 *.docx
 playground.ipynb
+
+.DS_Store
+*.pdf
